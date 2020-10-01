@@ -1,0 +1,32 @@
+body{
+  margin: 0px;
+}
+
+#topNav{
+  background-color: gray;
+  height: 10%;
+  margin: 0px;
+  border-bottom: 2px solid black;
+}
+
+#topNav li{
+    text-decoration: none;
+    display: inline;
+    float: right;
+    padding-right: 35px;
+}
+
+#topNav li:hover{
+  background-color: light gray;
+}
+
+#topNav li a{
+     text-decoration: none;
+     font-family: times new roman;
+     font-size: 35px;
+     color: white;
+}
+
+#topNav li a:hover{
+  color: black;
+}
